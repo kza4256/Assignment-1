@@ -5,8 +5,7 @@ Explanation:
 
    1. Import Libraries and Setup:
 
-         a. Make sure to install: !pip install --upgrade tensorflow.\
-      
+         a. Make sure to install: !pip install --upgrade tensorflow.      
          b. Importing necessary libraries: NumPy, Pandas, and TensorFlow.\
       
          c. It sets up the data directory and loads the dataset using TensorFlow's TPU (Tensor Processing Unit) strategy if available.
