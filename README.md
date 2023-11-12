@@ -5,11 +5,13 @@ Explanation:
 
    1. Import Libraries and Setup:
 
-         a. Make sure to install: !pip install --upgrade tensorflow
-         b. Importing necessary libraries: NumPy, Pandas, and TensorFlow.
+         a. Make sure to install: !pip install --upgrade tensorflow\\
+      
+         b. Importing necessary libraries: NumPy, Pandas, and TensorFlow.\\
+      
          c. It sets up the data directory and loads the dataset using TensorFlow's TPU (Tensor Processing Unit) strategy if available.
 
-  2. Data Preprocessing:
+  3. Data Preprocessing:
           a. load and data augmentation
           b. Import necessary libraries: tensorflow import image as tf_image
           c. The code defines functions for reading and decoding TFRecord files, which are a common format for storing large datasets.
