@@ -1,6 +1,6 @@
 # Assignment-1
 This code is a machine learning project, for image classification using a convolutional neural network (CNN) with TensorFlow and Keras. Let me break down the main components and explain the output plots.
-
+full blog is found here: https://toomajust.wixsite.com/khitam-aqel1/post/unleashing-the-power-of-tensor-processing-units-tpus-on-kaggle-for-flower-classification-1
 Explanation:
 
    1. Import Libraries and Setup:
